@@ -1,9 +1,2 @@
-server:
-  port: 80
-  servlet:
-    context-path: /api/v1
-spring:
-  application:
-    name: test
 myEnv:
   name: test
